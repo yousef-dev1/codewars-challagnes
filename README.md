@@ -1,1 +1,2 @@
-# codewars-challagnes
+# codewars-challenges
+
